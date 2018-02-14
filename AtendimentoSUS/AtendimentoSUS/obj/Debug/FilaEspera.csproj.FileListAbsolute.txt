@@ -1,0 +1,57 @@
+c:\users\carlos\documents\visual studio 2015\Projects\FilaEspera\FilaEspera\bin\Debug\FilaEspera.exe.config
+c:\users\carlos\documents\visual studio 2015\Projects\FilaEspera\FilaEspera\obj\Debug\FilaEspera.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2015\Projects\FilaEspera\FilaEspera\obj\Debug\FilaEspera.Form1.resources
+c:\users\carlos\documents\visual studio 2015\Projects\FilaEspera\FilaEspera\obj\Debug\FilaEspera.Properties.Resources.resources
+c:\users\carlos\documents\visual studio 2015\Projects\FilaEspera\FilaEspera\obj\Debug\FilaEspera.csproj.GenerateResource.Cache
+c:\users\carlos\documents\visual studio 2015\Projects\FilaEspera\FilaEspera\bin\Debug\FilaEspera.exe
+c:\users\carlos\documents\visual studio 2015\Projects\FilaEspera\FilaEspera\bin\Debug\FilaEspera.pdb
+c:\users\carlos\documents\visual studio 2015\Projects\FilaEspera\FilaEspera\obj\Debug\FilaEspera.exe
+c:\users\carlos\documents\visual studio 2015\Projects\FilaEspera\FilaEspera\obj\Debug\FilaEspera.pdb
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\bin\Debug\FilaEspera.exe.config
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\obj\Debug\FilaEspera.exe
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\obj\Debug\FilaEspera.pdb
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\bin\Debug\FilaEspera.exe
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\bin\Debug\FilaEspera.pdb
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\bin\Debug\mscorlib.dll
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\bin\Debug\normidna.nlp
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\bin\Debug\normnfc.nlp
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\bin\Debug\normnfd.nlp
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\bin\Debug\normnfkc.nlp
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\bin\Debug\normnfkd.nlp
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\obj\Debug\FilaEspera.csprojResolveAssemblyReference.cache
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\obj\Debug\FilaEspera.Form1.resources
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\obj\Debug\FilaEspera.Properties.Resources.resources
+C:\Montagner\01 - Sergio\00 - ETEC\03 - Disciplina DS - VisualStudio\FilaEspera\FilaEspera\obj\Debug\FilaEspera.csproj.GenerateResource.Cache
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\bin\Debug\FilaEspera.exe.config
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\obj\Debug\FilaEspera.exe
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\obj\Debug\FilaEspera.pdb
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\bin\Debug\FilaEspera.exe
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\bin\Debug\FilaEspera.pdb
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\bin\Debug\mscorlib.dll
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\bin\Debug\normidna.nlp
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\bin\Debug\normnfc.nlp
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\bin\Debug\normnfd.nlp
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\bin\Debug\normnfkc.nlp
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\bin\Debug\normnfkd.nlp
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\obj\Debug\FilaEspera.csprojResolveAssemblyReference.cache
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\obj\Debug\FilaEspera.Form1.resources
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\obj\Debug\FilaEspera.Properties.Resources.resources
+C:\Montagner\01 - Sergio\00 - ETEC\99 - Aulas Montagner\00 - Desenvolvimento de Software\C#\FilaEspera\FilaEspera\obj\Debug\FilaEspera.csproj.GenerateResource.Cache
+C:\Montagner\00 - ETEC\99 - Aulas Montagner\99 - Projetos C#\FilaEspera\FilaEspera\bin\Debug\FilaEspera.exe.config
+C:\Montagner\00 - ETEC\99 - Aulas Montagner\99 - Projetos C#\FilaEspera\FilaEspera\bin\Debug\FilaEspera.exe
+C:\Montagner\00 - ETEC\99 - Aulas Montagner\99 - Projetos C#\FilaEspera\FilaEspera\bin\Debug\FilaEspera.pdb
+C:\Montagner\00 - ETEC\99 - Aulas Montagner\99 - Projetos C#\FilaEspera\FilaEspera\bin\Debug\MySql.Data.dll
+C:\Montagner\00 - ETEC\99 - Aulas Montagner\99 - Projetos C#\FilaEspera\FilaEspera\obj\Debug\FilaEspera.csprojResolveAssemblyReference.cache
+C:\Montagner\00 - ETEC\99 - Aulas Montagner\99 - Projetos C#\FilaEspera\FilaEspera\obj\Debug\FilaEspera.Form1.resources
+C:\Montagner\00 - ETEC\99 - Aulas Montagner\99 - Projetos C#\FilaEspera\FilaEspera\obj\Debug\FilaEspera.Properties.Resources.resources
+C:\Montagner\00 - ETEC\99 - Aulas Montagner\99 - Projetos C#\FilaEspera\FilaEspera\obj\Debug\FilaEspera.csproj.GenerateResource.Cache
+C:\Montagner\00 - ETEC\99 - Aulas Montagner\99 - Projetos C#\FilaEspera\FilaEspera\obj\Debug\FilaEspera.exe
+C:\Montagner\00 - ETEC\99 - Aulas Montagner\99 - Projetos C#\FilaEspera\FilaEspera\obj\Debug\FilaEspera.pdb
+E:\Arquivos\00 - Etec\99 - Projetos C#\FilaEspera\FilaEspera\bin\Debug\FilaEspera.exe.config
+E:\Arquivos\00 - Etec\99 - Projetos C#\FilaEspera\FilaEspera\obj\Debug\FilaEspera.exe
+E:\Arquivos\00 - Etec\99 - Projetos C#\FilaEspera\FilaEspera\obj\Debug\FilaEspera.pdb
+E:\Pen Drive\FilaEspera\FilaEspera\bin\Debug\FilaEspera.exe.config
+E:\Pen Drive\FilaEspera\FilaEspera\obj\Debug\FilaEspera.exe
+E:\Pen Drive\FilaEspera\FilaEspera\obj\Debug\FilaEspera.pdb

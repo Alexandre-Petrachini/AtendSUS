@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtendimentoSUS", "AtendimentoSUS\AtendimentoSUS.csproj", "{24867B7B-844E-4115-B4B9-A7DC5572AF5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recep", "..\Recep\Recep\Recep.csproj", "{D105B228-211E-4C06-A791-8261AC62C318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24867B7B-844E-4115-B4B9-A7DC5572AF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24867B7B-844E-4115-B4B9-A7DC5572AF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24867B7B-844E-4115-B4B9-A7DC5572AF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24867B7B-844E-4115-B4B9-A7DC5572AF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D105B228-211E-4C06-A791-8261AC62C318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D105B228-211E-4C06-A791-8261AC62C318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D105B228-211E-4C06-A791-8261AC62C318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D105B228-211E-4C06-A791-8261AC62C318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
